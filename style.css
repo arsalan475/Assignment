@@ -59,13 +59,12 @@ span:not(.btn-d){
 .about{
 display: flex;
 width: 100%;
-  gap:1rem;
-  flex-wrap: nowrap
+  flex-wrap: wrap;
 }
 
 .about div{
-  width: 100%;
-  height: 5rem;
+  width: 50%;
+  height: 30vh;
   background-color: darkcyan
   
 }
